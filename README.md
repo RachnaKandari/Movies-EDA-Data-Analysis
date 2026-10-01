@@ -2,6 +2,11 @@
 
 Exploratory data analysis on a movie dataset, looking at how budget, gross earnings, ratings, and other attributes relate to each other.
 
+## Problem Statement
+
+No single model is built here; the goal is to understand the data itself: which movie attributes (budget, score, studio, release year) are associated with higher gross earnings, and where the data has quality issues (outliers, missing values) that would need to be addressed before any predictive modeling.
+
+
 ## Project Scope
 Data cleaning and checks for missing values, duplicates, and data types.
 Outlier detection on gross earnings using box plots.
